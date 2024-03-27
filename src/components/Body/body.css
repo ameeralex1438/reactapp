@@ -1,0 +1,210 @@
+.design{
+    margin-top:50px;
+    padding-left: 90px;
+    color:white;
+    font-size:60px;
+}
+.small{   
+    color:white;
+    padding-left:90px;
+    font-size: medium;
+}
+.button{
+
+    margin-top:30px;
+    height:80px;
+    width:200px;
+    font-size:20px;
+    background-color:#51643D;
+    border-color:yellow;
+    color:white;
+    
+}
+.button:hover{
+    color: black;
+    background-color: #F3D955;
+}
+.pic1{
+padding-left:100px;
+padding-top:80px;
+width:900px;
+height:600px;
+padding-bottom:100px;
+padding-right: 80px;
+opacity:1.5;
+
+}
+
+
+
+.design1{
+
+   background-color:#EBE5D0;
+   color:black;
+   font-size:25px;
+   padding-left:80px;
+   display:inline-flex;
+   float:right;
+   padding-bottom:80px;
+}
+.image{
+    opacity:1;
+    border: 1px black;
+    box-shadow: 15px 15px #888888;
+}
+.image:hover{
+opacity:0.5;
+
+}
+
+.design2{
+    background-color:#F3D955;
+    padding-top: 50px;
+    font-size:20px;
+    margin-top:50px;
+    padding-bottom: 70px;
+    
+}
+.button1{
+
+    margin-top:30px;
+    height:80px;
+    width:250px;
+    background-color:#EBE5D0;
+    border-color:black;
+}
+
+.button1:hover{
+        background-color:#F3D955;
+
+}
+.design3{
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(39, 38, 38);
+    opacity: 1;
+}
+.design3:hover{
+    opacity: 0.5;
+    color: black;
+}
+.learn{
+    width:150px;
+    background-color:#F3D955;
+    border-color:black;
+    color:black;
+    height:50px;
+}
+.learn:hover{
+    color:#EBE5D0;
+    background-color: #51643D;
+    
+    
+
+}
+.more{
+    text-decoration: none;
+    color:black;
+}
+.design4{
+    background-color:#EBE5D0;
+    padding-bottom:50px;
+    
+}
+.about{
+
+    font-size:80px;
+    color:white;
+    margin-top:80px;
+    padding-left:50px;
+    margin-bottom:120px;
+
+}
+.service{
+
+    font-size:80px;
+    color:white;
+    margin-top:80px;
+    padding-left:50px;
+    margin-bottom:120px;
+
+}
+.casestudy{
+
+    font-size:80px;
+    color:white;
+    margin-top:80px;
+    padding-left:50px;
+    margin-bottom:120px;
+
+}
+.contact{
+
+    font-size:80px;
+    color:white;
+    margin-top:80px;
+    padding-left:50px;
+    margin-bottom:120px;
+
+}
+.leave{
+    width: 400px;    
+    margin-top:10px;
+    background-color:#FFFFFF;
+    border-color:black;
+    color:black;
+    border:none;
+}
+.leave1{
+    width: 100%;
+    padding-bottom:100px;
+   
+    background-color:#FFFFFF;
+    border-color:black;
+    color:black;
+    border:none;
+}
+.send{
+
+    color:white;
+    border:none;
+    height:50px;
+    width:150px;
+    background-color:#51643D;
+    border-radius: 10PX;
+}
+.send:hover{
+    background-color:#F3D955;
+    color:black;
+}
+.leave3{
+    padding-top:40px;
+    border-color:black;
+    background-color: white;
+    color:white;
+    border:none;
+    height:80px;
+}
+.mail{
+    color:black;
+    border:none;
+    height:50px;
+    width:150px;
+    background-color:#F3D955;
+    border-radius: 10PX;
+}
+.mail:hover{
+    transform:scale(1.1);
+    background-color:black;
+    color:white;
+    border-radius: 5PX;
+}
+.map:hover{
+    background-color: #F3D955;
+    color:black;
+}
+.back{
+    background:linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30)) ,url("https://media.istockphoto.com/photos/-picture-id1311934969?k=6&m=1311934969&s=170667a&w=0&h=i0Lm9EfUfdZ95-VWnKauM4lgPUDul1oI9yDa7RUkIt0=");
+    background-size: cover;
+}
+
+
