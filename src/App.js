@@ -14,7 +14,7 @@ function App() {
      <Router>
       <Header/>
       <Routes>
-        <Route path='/reactapp' exact Component={Index}/>
+        <Route path='/' exact Component={Index}/>
         <Route path='about' exact Component={About}/>
         <Route path='services' exact Component={Services}/>
         <Route path='cases' exact Component={Cases}/>     
