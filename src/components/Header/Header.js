@@ -10,7 +10,7 @@ function Header() {
       <a href="#"><img src={Logo} width={150} style={{marginTop:40,paddingLeft:20,}}/></a>
       
 <ul>
-  <li><Link to='/' className='link'><b>HOME</b></Link></li>
+  <li><Link to='/reactapp' className='link'><b>HOME</b></Link></li>
   <li><Link to='about' className='link'><b>ABOUT</b></Link></li>
   <li><Link to='SERVICES' className='link'><b>SERVICES</b></Link></li>
   <li><Link to='cases' className='link'><b>CASES</b></Link></li>
